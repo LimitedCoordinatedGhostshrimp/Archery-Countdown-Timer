@@ -1,0 +1,10 @@
+C:\Users\Sandra\Documents\Visual Studio 2012\Projects\Licznik Łuczniczy\Licznik Łuczniczy\bin\Release\Licznik Łuczniczy.exe.config
+C:\Users\Sandra\Documents\Visual Studio 2012\Projects\Licznik Łuczniczy\Licznik Łuczniczy\bin\Release\Licznik Łuczniczy.exe
+C:\Users\Sandra\Documents\Visual Studio 2012\Projects\Licznik Łuczniczy\Licznik Łuczniczy\bin\Release\Licznik Łuczniczy.pdb
+C:\Users\Sandra\Documents\Visual Studio 2012\Projects\Licznik Łuczniczy\Licznik Łuczniczy\obj\Release\Licznik_Łuczniczy.Form1.resources
+C:\Users\Sandra\Documents\Visual Studio 2012\Projects\Licznik Łuczniczy\Licznik Łuczniczy\obj\Release\Licznik_Łuczniczy.Form2.resources
+C:\Users\Sandra\Documents\Visual Studio 2012\Projects\Licznik Łuczniczy\Licznik Łuczniczy\obj\Release\Licznik_Łuczniczy.Properties.Resources.resources
+C:\Users\Sandra\Documents\Visual Studio 2012\Projects\Licznik Łuczniczy\Licznik Łuczniczy\obj\Release\Licznik Łuczniczy.csproj.GenerateResource.Cache
+C:\Users\Sandra\Documents\Visual Studio 2012\Projects\Licznik Łuczniczy\Licznik Łuczniczy\obj\Release\Licznik Łuczniczy.exe
+C:\Users\Sandra\Documents\Visual Studio 2012\Projects\Licznik Łuczniczy\Licznik Łuczniczy\obj\Release\Licznik Łuczniczy.pdb
+C:\Users\Sandra\documents\visual studio 2012\Projects\Licznik Łuczniczy\Licznik Łuczniczy\obj\Release\Licznik Łuczniczy.csprojResolveAssemblyReference.cache
